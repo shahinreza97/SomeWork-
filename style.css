@@ -1,0 +1,23 @@
+body{
+    background-image:url(./img.png);
+    background-repeat:no-repeat;
+    background-position:top center;
+    background-attachment:fixed;
+}
+h1{
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 50%;
+}
+b {
+    width: 70px;
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 50%;
+    padding: 30px;
+    margin: 50%;
+    outline-color: blue;
+    
+}
